@@ -1,0 +1,93 @@
+.bg-red {
+    background-color: red;
+}
+
+.min-h-screen {
+    height: 100vh;
+
+}
+
+.max-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.items-center {
+    align-items: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-blue {
+    color: rgb(229, 86, 35);
+    font-size: larger;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.my-1 {
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.my-2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.px-1 {
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+
+.btn {
+    padding: 2px 4px;
+    background-color: rgb(194, 101, 73);
+    border: 2px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+    color: aliceblue;
+}
+
+.box {
+    min-width: 15vw;
+    margin: 12px 22px;
+    border: 2px solid rgb(51, 28, 11);
+    text-align: center;
+    border-radius: 8px;
+}
+
+.box ul {
+    list-style: none;
+}
+
+.box ul li {
+    margin: 12px 2px;
+}
+
+.highlighted {
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
